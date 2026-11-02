@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+    background: #fdf2f8;
+    text-align: center;
+}
+h1 {
+    background: #86198f;
+    color: white;
+    padding: 18px;
+}
+input, select {
+    display: block;
+    padding: 9px;
+    margin: 10px auto;
+    width: 70%;
+}
+button {
+    padding: 10px 14px;
+    margin: 5px;
+    background: #86198f;
+    color: white;
+    border: 0;
+}
+li {
+    background: #fae8ff;
+    padding: 9px;
+    margin: 8px auto;
+    max-width: 650px;
+    text-align: left;
+}
