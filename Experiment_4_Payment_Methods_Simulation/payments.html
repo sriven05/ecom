@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Payment Comparison</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Payment Method Comparison</h1>
+<table>
+<tr><th>Traditional</th><th>Token-Based</th></tr>
+<tr><td>Uses card details</td><td>Uses a substitute token</td></tr>
+<tr><td>Card details may be exposed</td><td>Reduces exposure of card number</td></tr>
+</table>
+<input id="amount" type="number" placeholder="Purchase amount">
+<select id="method"><option>Traditional</option><option>Token-Based</option></select>
+<button onclick="calculate()">Calculate</button>
+<p id="result">Result appears here.</p>
+<script src="script.js"></script>
+</body>
+</html>

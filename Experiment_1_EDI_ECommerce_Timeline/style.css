@@ -1,0 +1,26 @@
+body {
+    font-family: Arial;
+    background: #f1f5f9;
+    text-align: center;
+}
+h1 {
+    background: #12304a;
+    color: white;
+    padding: 18px;
+}
+input, button {
+    padding: 10px;
+    margin: 5px;
+}
+button {
+    background: #0e7490;
+    color: white;
+    border: 0;
+}
+.event {
+    background: white;
+    padding: 12px;
+    margin: 10px auto;
+    max-width: 650px;
+    border-left: 4px solid #0e7490;
+}

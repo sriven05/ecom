@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    background: #eff6ff;
+    text-align: center;
+}
+h1 {
+    background: #1e3a8a;
+    color: white;
+    padding: 18px;
+}
+table {
+    margin: 20px auto;
+    background: white;
+    border-collapse: collapse;
+}
+td, th {
+    border: 1px solid #64748b;
+    padding: 10px;
+}
+input, select, button {
+    padding: 10px;
+    margin: 8px;
+}
+button {
+    background: #1d4ed8;
+    color: white;
+    border: 0;
+}
+#result {
+    background: white;
+    padding: 15px;
+}
